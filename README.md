@@ -1,1 +1,1 @@
-Link do projeto aqui ➡️<a href="https://isaelns.github.io/projeto-bugdroid/" target="_blank">android!</a>
+Acesse o <a href="https://isaelns.github.io/projeto-bugdroid/" target="_blank">projeto android</a>.
