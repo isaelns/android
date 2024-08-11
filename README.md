@@ -1,1 +1,3 @@
-Acesse o [projeto android](https://isaelns.github.io/projeto-bugdroid/).
+#CTRL + clique
+
+Acesse o <a href="https://isaelns.github.io/projeto-bugdroid/">projeto bugdroid</a>!
