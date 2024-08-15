@@ -195,10 +195,10 @@ aside > ul {
 }
 
 footer {
-    color: white;
     background-color: var(--cor5);
+    color: white;
     text-align: center;
-    font-size: 0.8em;
+    padding: 10px;
 }
 
 footer a{
@@ -212,5 +212,24 @@ footer a:hover {
 }
 
 footer p {
+    margin-top: 0%;
     margin-bottom: 0%;
+}
+
+@media (min-width: 300px) and (max-width: 499px) {
+    footer p {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 800px){
+    footer p{
+        font-size: 1.5vh;
+    }
+}
+
+@media (min-width: 801px) {
+    footer p {
+        font-size: 1vw;
+    }
 }
